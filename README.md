@@ -48,6 +48,8 @@ Después de seleccionar el perfil de Apache, tendremos que activarlo con el coma
 
 ![8](https://github.com/Regnierd/Apache2/blob/main/img/6.png)
 
+<a name="3"></a>
+
 ### 3. Acceso
 Para comprobar que todo funciona abrimos un navegador y ponemos en la url: <b>locahost:8081</b> y veremos la siguiente pantalla.
 
