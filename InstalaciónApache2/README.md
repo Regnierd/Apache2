@@ -1,6 +1,8 @@
-### Instalación de Apache en Linux
+# Instalación de Apache en Linux
 
 ![logo-apache](https://github.com/Regnierd/Apache2/blob/main/img/apache2.jpeg)
+
+## Índice 
 
 - <a href="#1">1. Instalación de Apache2</a>
 - <a href="#2">2. Configuración Apache</a>
@@ -8,7 +10,7 @@
 
 Para esta práctica necesitaremos una máquina con Ubuntu 20.04 instalado. 
 
-## Índice 
+
 
 <a name="1"></a>
 
