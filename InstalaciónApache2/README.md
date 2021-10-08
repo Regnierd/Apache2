@@ -1,6 +1,6 @@
 # Instalación de Apache en Linux
 
-![logo-apache](https://github.com/Regnierd/Apache2/blob/main/img/apache2.jpeg)
+![logo-apache](https://github.com/Regnierd/Apache2/blob/main/Instalaci%C3%B3nApache2/img/apache2.jpeg)
 
 ## Índice 
 
