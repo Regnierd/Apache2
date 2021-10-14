@@ -1,4 +1,4 @@
-# Instalación de Apache-Tomcat en Linux
+# Despliegue de War en Apache-Tomcat
 
 ![logo-tomcat](https://github.com/Regnierd/Apache2/blob/main/InstalacionTomcat/img/apache-tomcat.png)
 
