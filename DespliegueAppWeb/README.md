@@ -7,7 +7,7 @@
 - <a href="#1">1. Creacion de una App Web en Java</a>
 - <a href="#2">3. Acceso</a>
 
-<a href="1"></a>
+<a name="1"></a>
 
 ### 1. Creacion de una App Web en Java
 
@@ -51,7 +51,7 @@ Comprobamos que se ha movido la carpeta a la ruta siguiente.
 
 ![10](https://github.com/Regnierd/Apache2/blob/main/DespliegueAppWeb/img/12.png)
 
-<a href="2"></a>
+<a name="2"></a>
 
 ### Acceso
 Para poder acceder a la aplicación tendremos que poner en la url: <b>localhost:8083/app-web-javier</b> y vemos el Hola Mundo!
