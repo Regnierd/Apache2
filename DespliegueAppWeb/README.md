@@ -5,8 +5,7 @@
 ## Indice
 
 - <a href="#1">1. Creacion de una App Web en Java</a>
-- <a href="#2">2. Instalación de Apache-Tomcat</a>
-- <a href="#3">3. Acceso</a>
+- <a href="#2">3. Acceso</a>
 
 <a href="1"></a>
 
